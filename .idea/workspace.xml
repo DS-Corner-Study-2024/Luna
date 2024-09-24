@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="704972f8-1bca-4c2b-9056-c1501586043d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hello-spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hello_spring/HelloSpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/hello/hello_spring/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/resources/static/hello-static.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/resources/templates/hello-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/test/java/hello/hello_spring/HelloSpringApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2mVPulbNS6WNFVwGkzG6LRq9vfR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/OneDrive/CornerStudy_Spring/Luna"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="704972f8-1bca-4c2b-9056-c1501586043d" name="Changes" comment="" />
+      <created>1727158995020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727158995020</updated>
+    </task>
+    <servers />
+  </component>
+</project>
